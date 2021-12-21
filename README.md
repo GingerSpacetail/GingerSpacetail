@@ -1,7 +1,13 @@
 - 👋 Hi, I’m @GingerSpacetail
 - 👀 I’m interested in ML in Medicine
-- 🌱 I’m a constant learner accumulating knowledge from comprehensive University programms like MedTech by FHWN, Precise Medicine and Stratified Healthcare by University of Edinburgh, medical AI by KHT and Industry leaders like GE Healthcare
-- 💞️ I’m happy to collaborate on NLP, Image processing for radiology, improvement of SPECT/PET/MRI Reconstruction algorithms
+- 🌱 I’m I’m a ML professional and a constant learner with competencies in MedTech, Maths and Economics motivated to create value in the healthcare industry
+- 💞️ I’m happy to collaborate on AI in Healthcare:
+          NLP (e.g. for patient records or biopsy reports),
+          Computer vision problems in medical imaging (e.g. organs, tissues, target structures delineation),
+          ML for radiology and radiotherapy (e.g image biomarkers feature extraction, classification problems for malignant /benign tumor, 
+                                             dose delivery and distribution,
+                                             SPECT/PET/MRI reconstruction algorithms improvement),
+          AI deployment in genomics, radiomics, multi-omics.
 - 📫 How to reach me: telegram @gingerspacetail
 
 <!---
