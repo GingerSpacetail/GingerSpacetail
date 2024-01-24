@@ -1,5 +1,5 @@
 👋 Hi, I’m @GingerSpacetail \
-👀 I’m interested in ML in Medicine \
+👀 I’m interested in AI in Healthcare \
 🌱 I’m a ML professional and a constant learner with competencies in MedTech, Maths and Economics on a mission to create value in the healthcare industry \
 💞️ I’m happy to collaborate on AI in Healthcare: 
 - NLP (from patient records or biopsy reports to molecular design), 
